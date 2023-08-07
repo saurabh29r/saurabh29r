@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/saurabhrauniya4" target="blank"><img src="https://img.shields.io/twitter/follow/saurabhrauniya4?logo=twitter&style=for-the-badge" alt="saurabhrauniya4" /></a> </p>
 
-- 🌱 I’m currently learning **RectsJS,NodeJS,**
+- 🌱 I’m currently learning **RectsJS,**
 
 - 💬 Ask me about **JavaScript**
 
