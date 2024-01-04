@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/saurabhrauniya4" target="blank"><img src="https://img.shields.io/twitter/follow/saurabhrauniya4?logo=twitter&style=for-the-badge" alt="saurabhrauniya4" /></a> </p>
 
-- 🌱 I’m currently learning **RectsJS,**
+- 🌱 I’m currently learning **NextJs,**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript,ReactJs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
