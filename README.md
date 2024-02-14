@@ -24,5 +24,5 @@
 
 <p>&nbsp;<img align="center" src="github-readme-stats-lb4jalmy5-saurabh29r.vercel.app" alt="saurabh29r" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh29r&" alt="saurabh29r" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh29r&" alt="saurabh29r" /></p>
 
