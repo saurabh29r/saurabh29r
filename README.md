@@ -17,7 +17,7 @@
 <h3 align="center">
 <a href="https://saurabhr.hashnode.dev/" target="_blank"> Visit My Technical blog's on hashnode</a>
 </h3>
-![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
+
 
 
 
